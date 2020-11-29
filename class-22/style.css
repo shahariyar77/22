@@ -1,0 +1,68 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    
+}
+
+
+
+/*========================   Nav manu ==================*/
+
+.section-padding {
+  padding: 50px 0;
+}
+.section-heading {
+  text-align: center;
+  margin-bottom: 70px;
+}
+body {
+}
+.section-heading h2 {
+  font-size: 40px;
+  font-weight: 700;
+}
+.single-team-item img {
+  border: 2px solid #e8e8e8;
+  height: 350px;
+  width: 400px;
+}
+.team-social-icon {
+  background: #5ba939;
+  text-align: center;
+  padding: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+}
+.team-social-icon a {
+  border: 1px solid;
+  color: #fff;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 5px;
+}
+.single-team-item h4 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 16px;
+}
+.single-team-item h4 span {
+  display: block;
+  color: #5ba939;
+  font-size: 80%;
+  margin-top: 5px;
+}
+
+
+
+
+
+
